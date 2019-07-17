@@ -1,0 +1,6 @@
+framework module Pods_SalonMerchant {
+  umbrella header "Pods-SalonMerchant-umbrella.h"
+
+  export *
+  module * { export * }
+}

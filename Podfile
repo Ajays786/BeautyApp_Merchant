@@ -1,0 +1,27 @@
+use_frameworks!
+
+target 'SalonMerchant' do
+    pod 'UITextField+Shake'
+    pod 'Eureka', '~> 4.3.1'
+    pod 'ESTabBarController-swift'
+	pod 'Kingfisher'
+	pod 'Alamofire'
+  	pod 'Firebase/Core'
+    pod 'Firebase/Database'
+    pod 'Firebase/Functions'
+    pod 'Firebase/Auth'
+    pod 'Firebase/Storage'
+    pod 'Firebase/Messaging'
+    pod 'Firebase/Firestore'
+    pod 'GoogleSignIn'
+    pod 'SwiftyUserDefaults'
+    pod 'SwiftyJSON', '~> 3.1.4'
+    pod 'SwiftFormat/CLI'
+    pod 'SnapKit'
+    pod 'WhatsNewKit'
+    pod 'ImageSlideshow', '~> 1.6'
+    pod 'IQKeyboardManagerSwift'
+    pod 'DateTimePicker'
+    pod 'Fabric', '~> 1.10.2'
+    pod 'Crashlytics', '~> 3.13.3'
+end
