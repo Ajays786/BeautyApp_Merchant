@@ -14,7 +14,7 @@ class NotificationViewController: BaseViewController,UITableViewDataSource,UITab
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+   
         // Do any additional setup after loading the view.
     }
     
@@ -38,5 +38,14 @@ class NotificationViewController: BaseViewController,UITableViewDataSource,UITab
         // Pass the selected object to the new view controller.
     }
     */
+    
+    
+//    func jayesh(a:Int,b:Int)->String{
+//        return String
+//    }
+
+//    func jayesh1(a:Int,b:Int)->Int{
+//        return Int
+//    }
 
 }
